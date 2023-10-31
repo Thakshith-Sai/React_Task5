@@ -1,0 +1,15 @@
+
+.date {
+  width: 25rem;
+}
+
+#btn {
+  width: 13rem;
+  border-radius: 20px;
+}
+
+.input{
+  max-width: 25rem;
+  margin:auto;
+}
+
